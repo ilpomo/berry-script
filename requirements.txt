@@ -1,0 +1,8 @@
+Brotli==1.0.9
+multivolumefile==0.2.3
+py7zr==0.17.3
+pybcj==0.5.0
+pycryptodomex==3.14.0
+pyppmd==0.17.3
+pyzstd==0.15.2
+texttable==1.6.4
